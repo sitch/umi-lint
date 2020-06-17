@@ -58,7 +58,7 @@ A: `umi-lint` 不包含配置，需要根据需求自己配置 `.eslintrc`、`.s
 
 #### Q: 使用 eslint 来检查 typescript
 
-A: `umi-lint --eslint.ext='.tx,tsx'`，
+A: `umi-lint --eslint.ext='.ts,tsx'`，
 
 ### 钉钉群
 
